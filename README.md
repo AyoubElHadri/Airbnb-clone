@@ -1,2 +1,2 @@
-# Build a React home Page width static data
-![Shoppy](https://ibb.co/McnjFWc)
+# Build a React home Page with static data
+![alt Airbnb](https://ibb.co/McnjFWc)
